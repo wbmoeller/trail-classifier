@@ -75,3 +75,20 @@ Important Considerations:
 - Data Quality: The success of your model heavily depends on the quality and quantity of your training data. Ensure it's representative of various trail types and difficulty levels.
 - Ethical Considerations: Be mindful of potential biases in trail descriptions or user ratings that could impact your model.
 - Model Interpretability: Consider using techniques like SHAP values to understand how your model makes decisions, which can be important for user trust.
+
+# Using gemini to generate a query for Overpass Turbo that will output the tags for all hiking trails in the LA and San Jacento Mountains
+```
+[out:json][timeout:25];
+
+// Define the bounding box and way selection (same as before)
+(
+  way
+    ["highway"~"path|track|footway"]
+    ["sac_scale"~"hiking|mountain_hiking|demanding_mountain_hiking"]
+    (33.4475,-118.3022,34.4635,-116.4345);
+);
+
+// Output trail attributes only (without nodes)
+out tags;
+```
+
