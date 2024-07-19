@@ -1,0 +1,5979 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-07-19T00:26:11Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 7065923,
+  "tags": {
+    "abandoned:highway": "track",
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "name": "Tenaja Falls Trail",
+    "operator": "US Forest Service",
+    "ref": "5W04",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 7197329,
+  "tags": {
+    "highway": "path",
+    "name": "Morgan Trail",
+    "operator": "US Forest Service",
+    "ref": "5W02",
+    "sac_scale": "hiking",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 7218234,
+  "tags": {
+    "highway": "track",
+    "incline": "up",
+    "motor_vehicle": "yes",
+    "mtb:scale": "2",
+    "mtb:scale:imba": "1",
+    "mtb:scale:uphill": "0",
+    "name": "Wildhorse Meadow Road",
+    "ref": "FR 2N93",
+    "sac_scale": "mountain_hiking",
+    "smoothness": "very_bad",
+    "surface": "dirt",
+    "tiger:cfcc": "A41",
+    "tiger:county": "San Bernardino, CA",
+    "tiger:name_base": "2N23;Wildhorse Meadows",
+    "tiger:name_type": "Rd",
+    "tracktype": "grade3",
+    "trail_visibility": "excellent",
+    "width": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 7341450,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "name": "Cucamonga Peak Trail",
+    "ref": "7W04",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 13287079,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "track",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "South Los Mares Trail",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 13397999,
+  "tags": {
+    "bicycle": "no",
+    "disused": "yes",
+    "highway": "path",
+    "horse": "no",
+    "name": "Barley Flats Truck Trail",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 13415290,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "horse": "yes",
+    "motor_vehicle": "permissive",
+    "name": "Cobal Canyon Trail",
+    "sac_scale": "hiking",
+    "surface": "dirt",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Los Angeles, CA",
+    "tiger:name_base": "Cobal Canyon",
+    "tiger:name_type": "Mtwy"
+  }
+},
+{
+  "type": "way",
+  "id": 13437288,
+  "tags": {
+    "bicycle": "yes",
+    "dogs": "leashed",
+    "flood_prone": "no",
+    "foot": "yes",
+    "highway": "track",
+    "horse": "no",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "mtb:scale": "1",
+    "name": "Ridge Motorway",
+    "sac_scale": "hiking",
+    "smoking": "no",
+    "smoothness": "intermediate",
+    "source": "survey",
+    "surface": "dirt",
+    "tiger:cfcc": "A51",
+    "tiger:county": "Los Angeles, CA",
+    "tiger:name_base": "Gladys",
+    "tiger:name_type": "Mtwy",
+    "tracktype": "grade2",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 13465417,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "Burbank Trail",
+    "oneway": "no",
+    "sac_scale": "hiking",
+    "surface": "dirt",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Los Angeles, CA",
+    "tiger:name_base": "Burbank",
+    "tiger:name_type": "Mtwy"
+  }
+},
+{
+  "type": "way",
+  "id": 29197674,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "name": "Strawberry Peak Trail",
+    "ohv": "no",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 29378667,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "no",
+    "foot": "yes",
+    "highway": "track",
+    "motor_vehicle": "no",
+    "name": "Buck Gully Trail",
+    "oneway:bicycle": "yes",
+    "operator": "City of Newport Beach",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 29378746,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "name": "Buck Gully Trail",
+    "oneway:bicycle": "yes",
+    "operator": "City of Newport Beach",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "trail_visibility": "excellent",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 30368816,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "name": "Upper Winter Creek Trail",
+    "ohv": "no",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 30369295,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "name": "Lower Winter Creek Trail",
+    "ohv": "no",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 30885069,
+  "tags": {
+    "highway": "path",
+    "name": "Brown Mountain Road",
+    "ref": "2N66",
+    "sac_scale": "hiking",
+    "source": "GPS",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 30885185,
+  "tags": {
+    "highway": "track",
+    "mtb:scale:imba": "2",
+    "mtb:scale:uphill": "3",
+    "name": "Millard Canyon Road",
+    "ref": "2N65",
+    "sac_scale": "hiking",
+    "smoothness": "very_horrible",
+    "source": "usgs_imagery;survey;image;USFS",
+    "source_ref": "AM909_DSCV3030",
+    "surface": "unpaved",
+    "tracktype": "grade3"
+  }
+},
+{
+  "type": "way",
+  "id": 30906537,
+  "tags": {
+    "alt_name": "Yreba Buena Ridge Road",
+    "atv": "no",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "name": "Landslide",
+    "note": "road damaged due to landslide passable on foot only",
+    "ohv": "no",
+    "ref": "3N30",
+    "sac_scale": "demanding_mountain_hiking",
+    "sac_scale_ref": "T3"
+  }
+},
+{
+  "type": "way",
+  "id": 30976113,
+  "tags": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "name": "Vogel Flat Trail",
+    "sac_scale": "mountain_hiking",
+    "sac_scale_ref": "T2",
+    "trail_visibility": "intermediate",
+    "yds": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 30988111,
+  "tags": {
+    "highway": "path",
+    "name": "Kenyon-Devore Trail",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 31057023,
+  "tags": {
+    "description": "unmaintaine firebreak",
+    "highway": "path",
+    "sac_scale": "mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 31057100,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "name": "Sister Elsie Trail",
+    "ohv": "no",
+    "sac_scale": "mountain_hiking",
+    "smoothness": "very_horrible",
+    "yds": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 31057118,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "name": "Sister Elsie Trail",
+    "ohv": "no",
+    "sac_scale": "mountain_hiking",
+    "smoothness": "very_horrible",
+    "yds": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 31064192,
+  "tags": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "Sister Elsie Trail",
+    "ohv": "no",
+    "sac_scale": "mountain_hiking",
+    "smoothness": "very_horrible",
+    "yds": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 31144725,
+  "tags": {
+    "highway": "track",
+    "name": "Mount Lowe Motorway",
+    "ref": "FR 2N50",
+    "sac_scale": "hiking",
+    "source": "cadastre",
+    "surface": "unpaved",
+    "tiger:county": "Los Angeles, CA",
+    "tiger:name_base": "Mount Lowe",
+    "tiger:name_type": "Mtwy",
+    "tracktype": "grade3"
+  }
+},
+{
+  "type": "way",
+  "id": 31281166,
+  "tags": {
+    "highway": "path",
+    "name": "Bear Canyon Trail",
+    "sac_scale": "hiking",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 31308195,
+  "tags": {
+    "highway": "path",
+    "incline": "up",
+    "name": "Valley Forge Trail",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "dirt",
+    "trail_visibility": "bad",
+    "width": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 31415320,
+  "tags": {
+    "cutline": "firebreak",
+    "description": "Social Trail - not a maintained trail.",
+    "foot": "yes",
+    "highway": "path",
+    "informal": "yes",
+    "man_made": "cutline",
+    "sac_scale": "alpine_hiking",
+    "surface": "ground",
+    "yds": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 31427164,
+  "tags": {
+    "highway": "path",
+    "name": "Rim Trail",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 31519991,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "name": "Condor Peak Trail",
+    "ref": "13W05",
+    "sac_scale": "hiking",
+    "width": "0.6"
+  }
+},
+{
+  "type": "way",
+  "id": 31568582,
+  "tags": {
+    "highway": "path",
+    "name": "Waterman Mountain Trail",
+    "sac_scale": "mountain_hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 31568583,
+  "tags": {
+    "highway": "path",
+    "name": "Spur to helipad",
+    "sac_scale": "mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 31568584,
+  "tags": {
+    "highway": "path",
+    "name": "Twin Peaks Trail",
+    "sac_scale": "mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 31568585,
+  "tags": {
+    "highway": "path",
+    "name": "Twin Peaks use trail",
+    "sac_scale": "alpine_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 31860086,
+  "tags": {
+    "highway": "path",
+    "name": "Bill Riley Trail",
+    "sac_scale": "mountain_hiking",
+    "source": "GPS"
+  }
+},
+{
+  "type": "way",
+  "id": 31870962,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "source": "GPS"
+  }
+},
+{
+  "type": "way",
+  "id": 35745947,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "motor_vehicle": "no",
+    "name": "Harbor View Trail",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 35745948,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 37356068,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "track",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "North Los Mares Trail",
+    "sac_scale": "hiking",
+    "surface": "dirt",
+    "tracktype": "grade2",
+    "width": "4"
+  }
+},
+{
+  "type": "way",
+  "id": 41019648,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Telegraph Canyon Trail",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Orange, CA",
+    "tiger:name_base": "Telegraph Canyon",
+    "tiger:name_type": "Rd",
+    "tiger:zip_left": "92886",
+    "tiger:zip_right": "92886",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 44881855,
+  "tags": {
+    "bicycle": "no",
+    "foot": "designated",
+    "highway": "path",
+    "horse": "no",
+    "name": "Wood Creek Trail",
+    "sac_scale": "mountain_hiking",
+    "surface": "dirt",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 47462892,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "Mount Wilson Toll Road",
+    "sac_scale": "hiking",
+    "source": "cadastre",
+    "surface": "unpaved",
+    "tracktype": "grade3"
+  }
+},
+{
+  "type": "way",
+  "id": 48035640,
+  "tags": {
+    "highway": "path",
+    "name": "Mount Lowe Railway Trail",
+    "name_1": "Echo Mountain Trail",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 48035641,
+  "tags": {
+    "highway": "path",
+    "name": "Lower Sam Merrill Trail",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 48035868,
+  "tags": {
+    "highway": "path",
+    "name": "N. Arroyo",
+    "sac_scale": "hiking",
+    "surface": "dirt",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 48036179,
+  "tags": {
+    "highway": "footway",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 48036277,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 48485217,
+  "tags": {
+    "highway": "path",
+    "name": "Heaton Flat Trail",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 48485335,
+  "tags": {
+    "highway": "path",
+    "name": "Heaton Flat Trail",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 48485336,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 48573625,
+  "tags": {
+    "highway": "path",
+    "name": "East Fork Trail",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "intermediate",
+    "width": "0.5"
+  }
+},
+{
+  "type": "way",
+  "id": 48778347,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "name": "Rubio Canyon",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 48842106,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 48842107,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "alpine_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 48842108,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 49830907,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 49830954,
+  "tags": {
+    "highway": "path",
+    "name": "Castle Canyon Trail",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 49894418,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 50532452,
+  "tags": {
+    "highway": "path",
+    "name": "Fern Truck Trail",
+    "ref": "2N66",
+    "sac_scale": "hiking",
+    "surface": "dirt",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Los Angeles, CA",
+    "tiger:name_base": "Fern Tktl;Fern Truck Trail;Fern Tktl"
+  }
+},
+{
+  "type": "way",
+  "id": 50532514,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "name": "El Prieto Trail",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 50535812,
+  "tags": {
+    "foot": "yes",
+    "highway": "track",
+    "motor_vehicle": "no",
+    "sac_scale": "hiking",
+    "surface": "paved",
+    "tracktype": "grade1"
+  }
+},
+{
+  "type": "way",
+  "id": 50535814,
+  "tags": {
+    "bicycle": "yes",
+    "highway": "path",
+    "name": "Sunset Ridge Trail",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "width": "0.5"
+  }
+},
+{
+  "type": "way",
+  "id": 56702011,
+  "tags": {
+    "highway": "path",
+    "name": "Cleghorn Ridge Trail",
+    "note": "USFS decommissioned this road (Hiking allowed)",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 59238909,
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "layer": "1",
+    "motorcar": "no",
+    "name": "Borrego Trail",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 59238912,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "maxspeed": "10 mph",
+    "motorcar": "no",
+    "name": "Borrego Trail",
+    "sac_scale": "hiking",
+    "surface": "sand",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 59238919,
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "layer": "1",
+    "motorcar": "no",
+    "name": "Borrego Canyon Trail",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 59238938,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "motorcar": "no",
+    "name": "Borrego Canyon Trail",
+    "note": "Cyclist One-Way only (NE)",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 62354176,
+  "tags": {
+    "bicycle": "no",
+    "foot": "designated",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "name": "Blackjack Trail",
+    "sac_scale": "hiking",
+    "surface": "dirt",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 62354180,
+  "tags": {
+    "bicycle": "no",
+    "foot": "designated",
+    "highway": "path",
+    "horse": "no",
+    "name": "Canyon Trail",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 70993491,
+  "tags": {
+    "highway": "path",
+    "name": "Echo Glenn Drive Connector",
+    "sac_scale": "hiking",
+    "source": "http://assessormap.co.la.ca.us/Geocortex/Essentials/REST/sites/PAIS/VirtualDirectory/AssessorMaps/ViewMap.html?val=5842-012",
+    "surface": "gravel",
+    "width": "6"
+  }
+},
+{
+  "type": "way",
+  "id": 70993495,
+  "tags": {
+    "bicycle": "yes",
+    "description": "https://trails.lacounty.gov/Trail/11/altadena-crest-trail",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "Altadena Crest Trail",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 74436002,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "no",
+    "name": "Round Valley Trail",
+    "sac_scale": "hiking",
+    "source": "survey",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 74458412,
+  "tags": {
+    "highway": "path",
+    "name": "Peak Trail",
+    "sac_scale": "hiking",
+    "source": "USGS Topo",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 74458414,
+  "tags": {
+    "highway": "path",
+    "name": "Wellman's Cienaga Trail",
+    "sac_scale": "hiking",
+    "source": "USGS Topo",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 74458417,
+  "tags": {
+    "highway": "path",
+    "name": "Willow Creek Trail",
+    "note": "partly revised from GPS tracklog",
+    "sac_scale": "hiking",
+    "source": "USGS Topo;USGS Geonames",
+    "surface": "unpaved",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 74458420,
+  "tags": {
+    "highway": "path",
+    "name": "Deer Springs Trail",
+    "sac_scale": "hiking",
+    "source": "USGS Topo",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 74458422,
+  "tags": {
+    "highway": "path",
+    "name": "Round Valley Trail",
+    "sac_scale": "hiking",
+    "source": "USGS Topo",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 74458430,
+  "tags": {
+    "highway": "path",
+    "name": "Peak Trail",
+    "sac_scale": "hiking",
+    "source": "USGS Topo",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 74458437,
+  "tags": {
+    "highway": "path",
+    "name": "Peak Trail",
+    "sac_scale": "hiking",
+    "source": "USGS Topo",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 75100750,
+  "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "name": "High Trail",
+    "sac_scale": "hiking",
+    "source": "USGS Topo",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 80215891,
+  "tags": {
+    "highway": "path",
+    "name": "Iron Mountain Trail",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 84197995,
+  "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "name": "Devils Backbone Trail",
+    "operator": "United States Forest Service",
+    "ref": "7W05",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 84513988,
+  "tags": {
+    "cutline": "firebreak",
+    "highway": "path",
+    "man_made": "cutline",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 84514505,
+  "tags": {
+    "highway": "path",
+    "name": "Mount Wilson Trail",
+    "sac_scale": "mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 84514847,
+  "tags": {
+    "highway": "path",
+    "name": "Sturtevant Trail",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 84514849,
+  "tags": {
+    "highway": "path",
+    "name": "Silver Moccasin Trail / Gabrielino Trail",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 100946304,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "Bear Canyon Trail",
+    "operator": "US Forest Service",
+    "ref": "5W09",
+    "sac_scale": "hiking",
+    "trail_visibility": "excellent",
+    "website": "https://www.fs.usda.gov/recarea/cleveland/recarea/?recid=47586"
+  }
+},
+{
+  "type": "way",
+  "id": 100946538,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "yes",
+    "name": "Bear Ridge Trail",
+    "operator": "US Forest Service",
+    "ref": "5W09",
+    "sac_scale": "hiking",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 105733150,
+  "tags": {
+    "alt_name": "Cactus to Clouds Trail",
+    "foot": "yes",
+    "highway": "path",
+    "name": "Skyline Trail",
+    "sac_scale": "demanding_mountain_hiking",
+    "source": "GPS",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 106745357,
+  "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "name": "North Lykken Trail",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "sand",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 115939790,
+  "tags": {
+    "cutline": "firebreak",
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 115939791,
+  "tags": {
+    "cutline": "firebreak",
+    "highway": "path",
+    "name": "Pigeon Ridge Firebreak",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 116065990,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "Altadena Crest Trail",
+    "sac_scale": "mountain_hiking",
+    "website": "https://trails.lacounty.gov/Trail/11/altadena-crest-trail"
+  }
+},
+{
+  "type": "way",
+  "id": 116065995,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 116065996,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "Altadena Crest Trail",
+    "sac_scale": "hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 119409508,
+  "tags": {
+    "highway": "path",
+    "name": "San Gabriel Peak Trail",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 119409509,
+  "tags": {
+    "highway": "path",
+    "name": "San Gabriel Peak Trail",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 127125143,
+  "tags": {
+    "bicycle": "no",
+    "foot": "designated",
+    "highway": "path",
+    "horse": "no",
+    "name": "Mariposa Trail",
+    "sac_scale": "hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 127292946,
+  "tags": {
+    "bicycle": "no",
+    "foot": "designated",
+    "highway": "path",
+    "horse": "no",
+    "name": "Sunflower Trail",
+    "sac_scale": "hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 128962114,
+  "tags": {
+    "highway": "path",
+    "name": "Waterman Mountain Trail",
+    "sac_scale": "mountain_hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 139838418,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "Mount Wilson Toll Road",
+    "sac_scale": "hiking",
+    "source": "cadastre",
+    "surface": "unpaved",
+    "tracktype": "grade3"
+  }
+},
+{
+  "type": "way",
+  "id": 139902062,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "name": "Icehouse Canyon Trail",
+    "operator": "United States Forest Service",
+    "ref": "237W07A",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 143668535,
+  "tags": {
+    "bicycle": "no",
+    "highway": "footway",
+    "horse": "no",
+    "informal": "yes",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 143668538,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "no",
+    "informal": "yes",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 143668540,
+  "tags": {
+    "highway": "footway",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 143668541,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "no",
+    "informal": "yes",
+    "motor_vehicle": "no",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 143668546,
+  "tags": {
+    "bicycle": "no",
+    "highway": "footway",
+    "informal": "yes",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 145655248,
+  "tags": {
+    "highway": "path",
+    "name": "East Fork Trail",
+    "sac_scale": "hiking",
+    "surface": "gravel"
+  }
+},
+{
+  "type": "way",
+  "id": 145655250,
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "name": "Bridge to Nowhere",
+    "sac_scale": "hiking",
+    "surface": "concrete"
+  }
+},
+{
+  "type": "way",
+  "id": 148771474,
+  "tags": {
+    "highway": "path",
+    "name": "Allison Mine Trail",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 148771475,
+  "tags": {
+    "highway": "path",
+    "name": "Heaton Flat Trail",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 148771496,
+  "tags": {
+    "highway": "path",
+    "name": "Allison Gulch Trail",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 149848316,
+  "tags": {
+    "highway": "path",
+    "name": "Bear Canyon Trail",
+    "sac_scale": "mountain_hiking",
+    "surface": "unpaved",
+    "trail_visibility": "excellent",
+    "width": ".5"
+  }
+},
+{
+  "type": "way",
+  "id": 153109794,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 153110714,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "motor_vehicle": "no",
+    "name": "Prima Desecha Trail",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 153110716,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "motor_vehicle": "no",
+    "name": "Las Ramblas Trail",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 153111590,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "track",
+    "motor_vehicle": "no",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "name": "Prima Desecha Trail",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "tracktype": "grade2",
+    "width": "4"
+  }
+},
+{
+  "type": "way",
+  "id": 153111751,
+  "tags": {
+    "highway": "path",
+    "name": "Millard Falls Trail",
+    "sac_scale": "hiking",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 158294392,
+  "tags": {
+    "bicycle": "no",
+    "foot": "designated",
+    "highway": "track",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "name": "The Lake Trail",
+    "sac_scale": "hiking",
+    "surface": "gravel",
+    "tracktype": "grade3"
+  }
+},
+{
+  "type": "way",
+  "id": 158300387,
+  "tags": {
+    "bicycle": "no",
+    "foot": "designated",
+    "highway": "path",
+    "horse": "no",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 160373414,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "North Ridge Trail",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 164371765,
+  "tags": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "no",
+    "name": "Register Ridge",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "unpaved",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 165215374,
+  "tags": {
+    "highway": "path",
+    "name": "El Prieto Trail",
+    "ref": "2N65",
+    "sac_scale": "hiking",
+    "source": "usgs_imagery;survey;image;USFS",
+    "source_ref": "AM909_DSCV3030",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 165215375,
+  "tags": {
+    "cutting": "no",
+    "highway": "path",
+    "lit": "no",
+    "oneway": "no",
+    "sac_scale": "mountain_hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 165216655,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 165929035,
+  "tags": {
+    "access": "yes",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "Upper Sam Merrill Trail",
+    "ohv": "no",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 170815057,
+  "tags": {
+    "bicycle": "no",
+    "foot": "designated",
+    "highway": "path",
+    "horse": "no",
+    "name": "Wood Creek Trail",
+    "sac_scale": "mountain_hiking",
+    "surface": "dirt",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 170815058,
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "foot": "designated",
+    "highway": "path",
+    "horse": "no",
+    "name": "Wood Creek Trail",
+    "sac_scale": "mountain_hiking",
+    "surface": "dirt",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 171048913,
+  "tags": {
+    "highway": "track",
+    "name": "Fire Road",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 174398940,
+  "tags": {
+    "bicycle": "yes",
+    "description": "https://trails.lacounty.gov/Trail/11/altadena-crest-trail",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "Altadena Crest Trail",
+    "sac_scale": "hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 174398942,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 174915322,
+  "tags": {
+    "highway": "path",
+    "name": "Bailey Canyon Trail",
+    "sac_scale": "mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 175012370,
+  "tags": {
+    "bicycle": "yes",
+    "description": "https://trails.lacounty.gov/Trail/11/altadena-crest-trail",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "Altadena Crest Trail",
+    "sac_scale": "hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 175920363,
+  "tags": {
+    "highway": "track",
+    "name": "Mount Lowe Motorway",
+    "ref": "FR 2N50",
+    "sac_scale": "hiking",
+    "source": "cadastre",
+    "surface": "unpaved",
+    "tiger:county": "Los Angeles, CA",
+    "tiger:name_base": "Mount Lowe",
+    "tiger:name_type": "Mtwy",
+    "tracktype": "grade3"
+  }
+},
+{
+  "type": "way",
+  "id": 178062347,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 178426128,
+  "tags": {
+    "bicycle": "yes",
+    "highway": "path",
+    "mtb:scale": "3",
+    "mtb:scale:imba": "3",
+    "name": "Middle Sam Merrill Trail",
+    "sac_scale": "hiking",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 179227181,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "name": "Chapman Trail",
+    "operator": "United States Forest Service",
+    "ref": "237W07",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 180594078,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "name": "Ontario Peak Trail",
+    "operator": "United States Forest Service",
+    "ref": "237W08",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 182888567,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "footway",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "trail_visibility": "good",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 186078776,
+  "tags": {
+    "bicycle": "no",
+    "dog": "leashed",
+    "highway": "path",
+    "name": "Experimental Garden Kite Hill Expanse",
+    "sac_scale": "mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 186845604,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 194226030,
+  "tags": {
+    "cutline": "firebreak",
+    "highway": "path",
+    "man_made": "cutline",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "excellent",
+    "width": "4"
+  }
+},
+{
+  "type": "way",
+  "id": 204081829,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "name": "Middle Fork Trail",
+    "ref": "6W01.2",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 204081833,
+  "tags": {
+    "highway": "path",
+    "name": "Middle Fork Trail",
+    "ref": "6W01.1",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 204865857,
+  "tags": {
+    "highway": "path",
+    "name": "Sturtevant Trail / Gabrielino Trail / Silver Moccasin Trail",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 215677744,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "source": "bing_imagery",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 215683780,
+  "tags": {
+    "highway": "path",
+    "incline": "steep",
+    "sac_scale": "demanding_mountain_hiking",
+    "source": "bing_imagery",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 227895204,
+  "tags": {
+    "highway": "path",
+    "informal": "yes",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 227895209,
+  "tags": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "Eaton Canyon Trail",
+    "sac_scale": "hiking",
+    "source": "GPS",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 227895210,
+  "tags": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "Eaton Canyon Trail",
+    "sac_scale": "hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 228175612,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "name": "Three Ts Trail",
+    "operator": "United States Forest Service",
+    "ref": "7W06",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 228175633,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "name": "Timber Mountain Trail",
+    "ref": "237W06B",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 228175637,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "name": "Telegraph Peak Trail",
+    "ref": "237W06A",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 239378023,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Carbon Canyon Creek Nature Trail",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 239378379,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Redwood Trail",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 239378380,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Bell's Vireo Trail",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 239378381,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "yes",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 239378382,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Coyote Pass",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 239378385,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Fire Road",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 239829421,
+  "tags": {
+    "bicycle": "no",
+    "dog": "leashed",
+    "highway": "footway",
+    "horse": "no",
+    "horse_scale": "common",
+    "lit": "no",
+    "name": "Easy Street Trail",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 243013448,
+  "tags": {
+    "highway": "path",
+    "name": "Firebreak",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 243013449,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "name": "Idlehour Trail",
+    "ohv": "no",
+    "ref": "12W16",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 243013450,
+  "tags": {
+    "highway": "path",
+    "name": "Lone Tree Trail",
+    "sac_scale": "mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 243013458,
+  "tags": {
+    "highway": "path",
+    "name": "Camp Huntington Trail",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 243013460,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "no",
+    "name": "Lone Tree Pavilion Trail",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "dirt",
+    "trail_visibility": "intermediate",
+    "width": ".5"
+  }
+},
+{
+  "type": "way",
+  "id": 243229428,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "source": "Bing",
+    "surface": "ground",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 243229432,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "source": "Bing",
+    "surface": "ground",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 256265857,
+  "tags": {
+    "highway": "path",
+    "name": "Old Echo Montain Trail",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 260698470,
+  "tags": {
+    "highway": "track",
+    "name": "Chantry Flats Truck Trail",
+    "name_1": "Forest Route 11W20",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "tiger:county": "Los Angeles, CA",
+    "tiger:name_base": "Chantry Flats Truck Trail",
+    "tiger:name_base_1": "Forest Route 11W20",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 263405298,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 284340602,
+  "tags": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "name": "Tenaja Trail",
+    "operator": "US Forest Service",
+    "ref": "5W07",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "trail_visibility": "excellent",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 284340962,
+  "tags": {
+    "abandoned:highway": "track",
+    "bicycle": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "name": "Fisherman's Camp Trail",
+    "operator": "US Forest Service",
+    "ref": "5W11",
+    "sac_scale": "hiking",
+    "source": "Bing",
+    "trail_visibility": "excellent",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 284342029,
+  "tags": {
+    "fixme": "Current USFS maps show this as 5W05 San Mateo Trail. Verify signage on the ground.",
+    "highway": "path",
+    "name": "Tenaja Trail",
+    "operator": "US Forest Service",
+    "sac_scale": "hiking",
+    "source": "personal gps tracks;Bing",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 285596289,
+  "tags": {
+    "highway": "path",
+    "name": "Devils Backbone Trail",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 288230467,
+  "tags": {
+    "addr:city": "Lake Elsinore",
+    "addr:housenumber": "18240",
+    "addr:postcode": "92532",
+    "addr:street": "Blue Gum Dr",
+    "highway": "track",
+    "motor_vehicle": "yes",
+    "name": "Blue Gum Drive",
+    "sac_scale": "mountain_hiking",
+    "surface": "unpaved",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 291715947,
+  "tags": {
+    "atv": "yes",
+    "highway": "path",
+    "motorcycle": "yes",
+    "name": "Redonda Ridge Trail",
+    "ref": "1W17",
+    "sac_scale": "hiking",
+    "source": "Bing",
+    "surface": "dirt",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 293480792,
+  "tags": {
+    "alt_name": "Pacific Crest Trail",
+    "foot": "yes",
+    "highway": "path",
+    "name": "Pacific Crest National Scenic Trail #2000",
+    "ref": "PCT",
+    "sac_scale": "mountain_hiking",
+    "source": "GPS",
+    "surface": "unpaved",
+    "trail_visibility": "good",
+    "width": "0.5"
+  }
+},
+{
+  "type": "way",
+  "id": 293546344,
+  "tags": {
+    "highway": "path",
+    "loc_name": "North Fork Meadows Trail",
+    "name": "North Fork Meadows Trail",
+    "note": "needs to be surveyed",
+    "ref": "1W05.3",
+    "sac_scale": "mountain_hiking",
+    "source": "USGS TOPO MAP",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 298447983,
+  "tags": {
+    "highway": "path",
+    "name": "Old Echo Mountain Trail",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 302655120,
+  "tags": {
+    "highway": "path",
+    "name": "Bastard Ridge",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 303501527,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "no",
+    "name": "Islip Wawona Trail",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "trail_visibility": "excellent",
+    "width": ".5"
+  }
+},
+{
+  "type": "way",
+  "id": 310894329,
+  "tags": {
+    "fixme": "Add specific path",
+    "highway": "path",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 310897369,
+  "tags": {
+    "cutline": "firebreak",
+    "highway": "path",
+    "man_made": "cutline",
+    "name": "Mount Wilson Trail",
+    "sac_scale": "mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 310897370,
+  "tags": {
+    "highway": "path",
+    "name": "Mount Wilson Trail",
+    "sac_scale": "mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 312156611,
+  "tags": {
+    "alt_name": "Cactus to Clouds Trail",
+    "foot": "yes",
+    "highway": "path",
+    "name": "Skyline Trail",
+    "sac_scale": "demanding_mountain_hiking",
+    "source": "GPS",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 312156612,
+  "tags": {
+    "alt_name": "Cactus to Clouds Trail",
+    "foot": "yes",
+    "highway": "path",
+    "name": "Skyline Trail",
+    "sac_scale": "demanding_mountain_hiking",
+    "source": "GPS",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 313027184,
+  "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 326504350,
+  "tags": {
+    "highway": "path",
+    "name": "Jim Spencer trail",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 330735476,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "mtb:scale": "2",
+    "mtb:scale:uphill": "1",
+    "name": "Skyline Trail",
+    "ref": "1E12",
+    "sac_scale": "hiking",
+    "surface": "dirt",
+    "trail_visibility": "intermediate",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 330751187,
+  "tags": {
+    "highway": "path",
+    "incline": "up",
+    "mtb:scale": "3",
+    "mtb:scale:imba": "3",
+    "mtb:scale:uphill": "2",
+    "name": "Sugarloaf National Recreational Trail",
+    "ref": "2E18.1",
+    "sac_scale": "mountain_hiking",
+    "source": "Bing;Strava",
+    "surface": "dirt",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 330873574,
+  "tags": {
+    "highway": "path",
+    "mtb:scale": "2",
+    "mtb:scale:imba": "2",
+    "name": "Skyline Trail",
+    "ref": "1E12",
+    "sac_scale": "hiking",
+    "source": "Strava;Bing",
+    "surface": "dirt",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 330873583,
+  "tags": {
+    "highway": "path",
+    "mtb:scale": "1",
+    "mtb:scale:uphill": "0",
+    "name": "Skyline Trail",
+    "ref": "1E12",
+    "sac_scale": "hiking",
+    "source": "Strava;Bing",
+    "surface": "dirt",
+    "width": "0.5"
+  }
+},
+{
+  "type": "way",
+  "id": 330873600,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "mtb:scale": "2",
+    "name": "Fall Line",
+    "ref": "1E30",
+    "sac_scale": "mountain_hiking",
+    "source": "Strava;Bing;strava",
+    "trail_visibility": "excellent",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 333375794,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "incline": "-20%",
+    "name": "Cougar Ridge",
+    "sac_scale": "mountain_hiking",
+    "source": "Bing;USGS",
+    "surface": "dirt",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 335697726,
+  "tags": {
+    "description": "The 1½ mile long trail is considered easy and is mostly \nflat with some short ups and downs.  It takes 45 minutes to an hour to hike the trail. An Adventure Pass is required to park at the Woodland Trail trailhead.",
+    "highway": "path",
+    "incline": "300'_over_1.5_miles",
+    "length": "1.5 Miles",
+    "name": "Woodland Interpretive Trail 1E23",
+    "operator": "USDA Forest Service",
+    "ref": "1E23",
+    "sac_scale": "hiking",
+    "source": "Strava;USGS",
+    "surface": "dirt",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 335698339,
+  "tags": {
+    "abandoned:highway": "track",
+    "highway": "path",
+    "incline": "up",
+    "informal": "yes",
+    "mtb:scale": "3",
+    "mtb:scale:imba": "3",
+    "mtb:scale:uphill": "2",
+    "sac_scale": "mountain_hiking",
+    "source": "Strava;USGS",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 345755775,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "no",
+    "incline": "up",
+    "mtb:scale:imba": "2",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "earth",
+    "trail_visibility": "horrible"
+  }
+},
+{
+  "type": "way",
+  "id": 345759552,
+  "tags": {
+    "highway": "path",
+    "incline": "up",
+    "mtb:scale:imba": "2",
+    "sac_scale": "mountain_hiking",
+    "surface": "earth",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 353558905,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 353939462,
+  "tags": {
+    "bicycle": "no",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Gilman Trail",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 360064898,
+  "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "name": "Sunset Peak Shortcut",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "dirt",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 360064899,
+  "tags": {
+    "cutline": "firebreak",
+    "foot": "yes",
+    "highway": "path",
+    "informal": "yes",
+    "name": "Sunset Peak Shortcut",
+    "sac_scale": "demanding_mountain_hiking",
+    "smoothness": "impassable",
+    "surface": "dirt",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 361501590,
+  "tags": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "no",
+    "informal": "yes",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "sac_scale": "hiking",
+    "surface": "dirt",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 370383100,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "no",
+    "incline": "yes",
+    "mtb:scale": "6",
+    "mtb:scale:uphill": "5",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "unpaved",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 379666193,
+  "tags": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "no",
+    "name": "Gooseberry Motorway",
+    "ref": "Old Edison Road",
+    "sac_scale": "demanding_mountain_hiking",
+    "source": "LA County Fire Maps of Altadena",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 389721716,
+  "tags": {
+    "access": "no",
+    "highway": "path",
+    "name": "Fish Canyon Falls Public Access Path",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 392613008,
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "name": "East Fork Trail",
+    "sac_scale": "hiking",
+    "surface": "wood",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 392613009,
+  "tags": {
+    "highway": "path",
+    "name": "East Fork Trail",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "width": "0.5"
+  }
+},
+{
+  "type": "way",
+  "id": 392721590,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "motor_vehicle": "no",
+    "name": "Upper Colby Trail",
+    "sac_scale": "demanding_alpine_hiking",
+    "width": "0.5"
+  }
+},
+{
+  "type": "way",
+  "id": 401870277,
+  "tags": {
+    "alt_name": "High Desert National Recreation Trail",
+    "highway": "path",
+    "name": "Burkhart Trail",
+    "sac_scale": "hiking",
+    "surface": "dirt",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 407703937,
+  "tags": {
+    "abandoned:highway": "track",
+    "abandoned:name": "Verdugo Truck Trail",
+    "alt_name": "Forest Route 7S06",
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "name": "Verdugo Trail",
+    "operator": "US Forest Service",
+    "ref": "6W12",
+    "sac_scale": "hiking",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 422097176,
+  "tags": {
+    "highway": "path",
+    "informal": "yes",
+    "name": "Cram Peak Ridge Trail",
+    "sac_scale": "mountain_hiking",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 431589071,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 444936627,
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "name": "Icehouse Canyon Trail",
+    "sac_scale": "hiking",
+    "surface": "wood",
+    "tiger:cfcc": "A51",
+    "tiger:county": "San Bernardino, CA"
+  }
+},
+{
+  "type": "way",
+  "id": 444936628,
+  "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "name": "Icehouse Canyon Trail",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "tiger:cfcc": "A51",
+    "tiger:county": "San Bernardino, CA"
+  }
+},
+{
+  "type": "way",
+  "id": 445433296,
+  "tags": {
+    "highway": "path",
+    "mtb:scale": "2",
+    "mtb:scale:imba": "2",
+    "mtb:scale:uphill": "1",
+    "name": "Skyline Trail",
+    "ref": "1E12",
+    "sac_scale": "hiking",
+    "source": "Strava;Bing",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "width": "0.5"
+  }
+},
+{
+  "type": "way",
+  "id": 445604584,
+  "tags": {
+    "abandoned:highway": "track",
+    "abandoned:name": "Verdugo Truck Trail",
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "Bear Canyon Trail",
+    "old_name": "Verdugo Truck Trail",
+    "operator": "US Forest Service",
+    "ref": "5W09",
+    "sac_scale": "hiking",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 475566443,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "no",
+    "incline": "up",
+    "motor_vehicle": "no",
+    "name": "Holly Trail Path",
+    "sac_scale": "hiking",
+    "surface": "dirt",
+    "width": "1.5"
+  }
+},
+{
+  "type": "way",
+  "id": 477777711,
+  "tags": {
+    "cutline": "firebreak",
+    "highway": "path",
+    "man_made": "cutline",
+    "name": "Mt. Lowe Firebreak",
+    "ref": "LA",
+    "sac_scale": "demanding_mountain_hiking",
+    "trail_visibility": "horrible"
+  }
+},
+{
+  "type": "way",
+  "id": 481693239,
+  "tags": {
+    "access": "destination",
+    "bicycle": "destination",
+    "foot": "destination",
+    "highway": "path",
+    "horse": "no",
+    "incline": "10%",
+    "motor_vehicle": "no",
+    "mtb:scale": "1",
+    "mtb:scale:uphill": "0",
+    "sac_scale": "hiking",
+    "surface": "compacted",
+    "trail_visibility": "intermediate",
+    "tunnel": "no",
+    "width": ".5"
+  }
+},
+{
+  "type": "way",
+  "id": 483112511,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "name": "Indian Springs Trail",
+    "sac_scale": "mountain_hiking",
+    "surface": "dirt",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 483112530,
+  "tags": {
+    "access": "no",
+    "foot": "yes",
+    "highway": "footway",
+    "horse": "permissive",
+    "name": "Chaparrosa Peak Trail",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 490434787,
+  "tags": {
+    "highway": "track",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 490520451,
+  "tags": {
+    "highway": "path",
+    "horse": "yes",
+    "name": "Rancho Capistrano Trail",
+    "sac_scale": "mountain_hiking",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 490520453,
+  "tags": {
+    "highway": "path",
+    "horse": "yes",
+    "name": "San Mateo Peak Trail",
+    "sac_scale": "mountain_hiking",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 490520456,
+  "tags": {
+    "highway": "track",
+    "horse": "yes",
+    "sac_scale": "hiking",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 490520457,
+  "tags": {
+    "highway": "path",
+    "horse": "yes",
+    "sac_scale": "hiking",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 490520458,
+  "tags": {
+    "highway": "path",
+    "horse": "yes",
+    "sac_scale": "hiking",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 490520459,
+  "tags": {
+    "highway": "path",
+    "horse": "yes",
+    "sac_scale": "hiking",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 511624854,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 511624855,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 511624856,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 517775139,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 519180794,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "mtb:scale": "1",
+    "mtb:scale:imba": "1",
+    "mtb:scale:uphill": "0",
+    "name": "Catalina Verdugo Trail",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "excellent",
+    "website": "https://www.glendaleca.gov/home/showdocument?id=11677",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 520609621,
+  "tags": {
+    "highway": "path",
+    "informal": "yes",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 529788284,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 534316892,
+  "tags": {
+    "highway": "path",
+    "incline": "30",
+    "informal": "yes",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 538119225,
+  "tags": {
+    "highway": "path",
+    "incline": "up",
+    "name": "Falls Canyon  Trail",
+    "sac_scale": "mountain_hiking",
+    "surface": "dirt",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 561008239,
+  "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "name": "Bradford Ridge Path",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 561694190,
+  "tags": {
+    "highway": "track",
+    "name": "Lookout Spur",
+    "ref": "FR 2N11B",
+    "sac_scale": "hiking",
+    "smoothness": "very_bad",
+    "source": "strava",
+    "surface": "dirt",
+    "tracktype": "grade3"
+  }
+},
+{
+  "type": "way",
+  "id": 588789203,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "source": "bing_imagery",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 610885479,
+  "tags": {
+    "highway": "path",
+    "name": "Old Sugarloaf Peak Trail",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "unpaved",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 610887446,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "dirt",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 624272253,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 639206293,
+  "tags": {
+    "highway": "path",
+    "name": "Tom Sloan Trail",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 642448105,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Diemer Trail",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Orange, CA",
+    "tiger:name_base": "Telegraph Canyon",
+    "tiger:name_type": "Rd",
+    "tiger:reviewed": "no",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 642788386,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 647444797,
+  "tags": {
+    "access": "no",
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "permissive",
+    "motor_vehicle": "no",
+    "name": "Pipes Canyon Trail",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "tiger:cfcc": "A41",
+    "tiger:county": "San Bernardino, CA",
+    "tiger:name_base": "Pipes",
+    "tiger:name_type": "Rd",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 660984555,
+  "tags": {
+    "cutline": "firebreak",
+    "highway": "path",
+    "man_made": "cutline",
+    "name": "Bastard Ridge",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 664724206,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "mtb:scale": "1",
+    "mtb:scale:imba": "1",
+    "mtb:scale:uphill": "0",
+    "name": "Catalina Verdugo Trail",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "excellent",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 664987418,
+  "tags": {
+    "highway": "path",
+    "name": "Incline Railway trail",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 665006364,
+  "tags": {
+    "access": "no",
+    "highway": "path",
+    "informal": "yes",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 665006375,
+  "tags": {
+    "access": "no",
+    "highway": "path",
+    "informal": "yes",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 665178940,
+  "tags": {
+    "access": "no",
+    "highway": "path",
+    "informal": "yes",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 665178941,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 667035012,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 667035014,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "track",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "South Los Mares Trail",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 675902651,
+  "tags": {
+    "highway": "path",
+    "name": "Bobcat Trail",
+    "oneway:bicycle": "yes",
+    "operator": "City of Newport Beach",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "trail_visibility": "excellent",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 675976413,
+  "tags": {
+    "highway": "path",
+    "name": "Gabrielino Trail",
+    "sac_scale": "hiking",
+    "source": "GPS"
+  }
+},
+{
+  "type": "way",
+  "id": 679342783,
+  "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 679342784,
+  "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 701303720,
+  "tags": {
+    "highway": "track",
+    "name": "Mount Lowe Motorway",
+    "ref": "FR 2N50",
+    "sac_scale": "hiking",
+    "source": "cadastre",
+    "surface": "unpaved",
+    "tiger:county": "Los Angeles, CA",
+    "tiger:name_base": "Mount Lowe",
+    "tiger:name_type": "Mtwy",
+    "tracktype": "grade3"
+  }
+},
+{
+  "type": "way",
+  "id": 701303722,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "track",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "Mount Lowe Motorway",
+    "ref": "FR 2N50",
+    "sac_scale": "hiking",
+    "source": "cadastre",
+    "surface": "paved",
+    "tiger:county": "Los Angeles, CA",
+    "tiger:name_base": "Mount Lowe",
+    "tiger:name_type": "Mtwy",
+    "tracktype": "grade1"
+  }
+},
+{
+  "type": "way",
+  "id": 704425079,
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "name": "Willow Creek Trail",
+    "note": "partly revised from GPS tracklog",
+    "sac_scale": "hiking",
+    "source": "USGS Topo; USGS Geonames; USGS Topo",
+    "surface": "wood",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 704425080,
+  "tags": {
+    "highway": "path",
+    "name": "Willow Creek Trail",
+    "note": "partly revised from GPS tracklog",
+    "sac_scale": "hiking",
+    "source": "USGS Topo; USGS Geonames; USGS Topo",
+    "surface": "unpaved",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 709847160,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "dirt",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 709847161,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "dirt",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 729438598,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "no",
+    "name": "Islip Ridge Trail",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "trail_visibility": "excellent",
+    "width": ".5"
+  }
+},
+{
+  "type": "way",
+  "id": 729438599,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "no",
+    "name": "Islip Wawona Trail",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "trail_visibility": "excellent",
+    "width": ".5"
+  }
+},
+{
+  "type": "way",
+  "id": 736525429,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "source": "local knowledge; Maxar Imagery; GPS"
+  }
+},
+{
+  "type": "way",
+  "id": 736525430,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "source": "local knowledge; Maxar Imagery; GPS"
+  }
+},
+{
+  "type": "way",
+  "id": 736525431,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "source": "local knowledge;Maxar Imagery;GPS",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 738372118,
+  "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "informal": "yes",
+    "sac_scale": "demanding_mountain_hiking",
+    "smoothness": "very_horrible",
+    "surface": "ground",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 738980613,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "source": "local knowledge;Bing Imagery: GPS;Survey",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 739456172,
+  "tags": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "no",
+    "incline": "20%",
+    "sac_scale": "mountain_hiking",
+    "smoothness": "impassable",
+    "surface": "ground",
+    "trail_visibility": "intermediate",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 747451571,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "source": "city of pasadena arroyo trails layer"
+  }
+},
+{
+  "type": "way",
+  "id": 748649047,
+  "tags": {
+    "access": "no",
+    "bicycle": "no",
+    "foot": "no",
+    "highway": "path",
+    "horse": "no",
+    "incline": "30%",
+    "informal": "yes",
+    "sac_scale": "demanding_mountain_hiking",
+    "smoothness": "impassable",
+    "surface": "ground",
+    "trail_visibility": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 756136116,
+  "tags": {
+    "bicycle": "no",
+    "fixme": "Very approximate based on aerial imagery, need on the ground GPS to better align",
+    "highway": "path",
+    "motor_vehicle": "no",
+    "name": "San Mateo Trail",
+    "operator": "US Forest Service",
+    "ref": "5W05",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 762912030,
+  "tags": {
+    "highway": "path",
+    "name": "Sturtevant Trail (Gabrielino NRT / Silver Moccasin NRT)",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 764275824,
+  "tags": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "name": "Tenaja Falls Trail",
+    "operator": "US Forest Service",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 764275825,
+  "tags": {
+    "highway": "path",
+    "horse": "yes",
+    "sac_scale": "hiking",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 764275826,
+  "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "name": "San Mateo Peak Trail",
+    "sac_scale": "mountain_hiking",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 764275827,
+  "tags": {
+    "highway": "path",
+    "horse": "yes",
+    "sac_scale": "hiking",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 764275828,
+  "tags": {
+    "highway": "path",
+    "name": "Morgan Trail",
+    "operator": "US Forest Service",
+    "ref": "5W02",
+    "sac_scale": "hiking",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 764275829,
+  "tags": {
+    "highway": "path",
+    "name": "Morgan Trail",
+    "operator": "US Forest Service",
+    "ref": "5W02",
+    "sac_scale": "hiking",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 764275830,
+  "tags": {
+    "highway": "path",
+    "name": "Morgan Trail",
+    "operator": "US Forest Service",
+    "ref": "5W02",
+    "sac_scale": "hiking",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 764275831,
+  "tags": {
+    "highway": "path",
+    "name": "Morgan Trail",
+    "operator": "US Forest Service",
+    "ref": "5W02",
+    "sac_scale": "hiking",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 764275832,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "Bear Canyon Trail",
+    "operator": "US Forest Service",
+    "ref": "5W09",
+    "sac_scale": "hiking",
+    "trail_visibility": "excellent",
+    "website": "https://www.fs.usda.gov/recarea/cleveland/recarea/?recid=47586"
+  }
+},
+{
+  "type": "way",
+  "id": 766591395,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "incline": "steep",
+    "motor_vehicle": "no",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 815761500,
+  "tags": {
+    "cutline": "firebreak",
+    "foot": "yes",
+    "highway": "path",
+    "man_made": "cutline",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "yds": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 872771889,
+  "tags": {
+    "highway": "path",
+    "name": "Icehouse Canyon Trail",
+    "ref": "237W07A",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 882095108,
+  "tags": {
+    "bicycle": "designated",
+    "foot": "designated",
+    "highway": "path",
+    "horse": "no",
+    "mtb:scale": "2",
+    "mtb:scale:imba": "2",
+    "name": "Pavlovian Reflexes",
+    "ref": "2E03.4",
+    "sac_scale": "mountain_hiking",
+    "segregated": "no",
+    "surface": "dirt",
+    "trail_visibility": "intermediate",
+    "width": "0.3"
+  }
+},
+{
+  "type": "way",
+  "id": 891433704,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 892439096,
+  "tags": {
+    "abandoned:highway": "track",
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "name": "Tenaja Falls Trail",
+    "operator": "US Forest Service",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 915582623,
+  "tags": {
+    "access": "yes",
+    "bicycle": "no",
+    "description": "https://arroyosfoothills.org/land/altadena/rubio-canyon/hike-rubio-canyon/",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "name": "Rubio Canyon Preserve Trail",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 915582624,
+  "tags": {
+    "access": "yes",
+    "bicycle": "no",
+    "description": "https://arroyosfoothills.org/land/altadena/rubio-canyon/hike-rubio-canyon/",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "name": "Rubio Canyon Preserve Trail",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 915582625,
+  "tags": {
+    "access": "yes",
+    "bicycle": "no",
+    "description": "https://arroyosfoothills.org/land/altadena/rubio-canyon/hike-rubio-canyon/",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "name": "Rubio Canyon Preserve Trail",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 924603063,
+  "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "informal": "yes",
+    "sac_scale": "mountain_hiking",
+    "surface": "unpaved",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 974665571,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 987880726,
+  "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 987880727,
+  "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "sac_scale": "hiking",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 987880728,
+  "tags": {
+    "foot": "yes",
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 990188791,
+  "tags": {
+    "highway": "path",
+    "informal": "yes",
+    "sac_scale": "demanding_mountain_hiking",
+    "smoothness": "impassable",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 990240247,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "earth"
+  }
+},
+{
+  "type": "way",
+  "id": 990240248,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 990240249,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 990240250,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 993770134,
+  "tags": {
+    "access": "no",
+    "cutline": "firebreak",
+    "foot": "yes",
+    "highway": "path",
+    "man_made": "cutline",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "ground",
+    "tracktype": "grade5",
+    "yds": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 993770135,
+  "tags": {
+    "access": "no",
+    "cutline": "firebreak",
+    "foot": "yes",
+    "highway": "path",
+    "man_made": "cutline",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "ground",
+    "tracktype": "grade5",
+    "yds": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 995957007,
+  "tags": {
+    "highway": "path",
+    "name": "Sturtevant Falls Trail",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 995957008,
+  "tags": {
+    "highway": "path",
+    "name": "Sturtevant Trail",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 997142975,
+  "tags": {
+    "access": "no",
+    "cutline": "firebreak",
+    "description": "Social Trail - not a maintained trail.",
+    "foot": "yes",
+    "highway": "path",
+    "man_made": "cutline",
+    "sac_scale": "demanding_alpine_hiking",
+    "surface": "ground",
+    "yds": "3"
+  }
+},
+{
+  "type": "way",
+  "id": 998209791,
+  "tags": {
+    "highway": "path",
+    "informal": "yes",
+    "sac_scale": "mountain_hiking",
+    "surface": "earth",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 998209792,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 998210901,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 998881149,
+  "tags": {
+    "bicycle": "no",
+    "bridge": "yes",
+    "foot": "designated",
+    "highway": "path",
+    "horse": "no",
+    "layer": "1",
+    "name": "Wood Creek Trail",
+    "sac_scale": "mountain_hiking",
+    "surface": "dirt",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 998881150,
+  "tags": {
+    "bicycle": "no",
+    "foot": "designated",
+    "highway": "path",
+    "horse": "no",
+    "name": "Wood Creek Trail",
+    "sac_scale": "mountain_hiking",
+    "surface": "dirt",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1002530732,
+  "tags": {
+    "access": "private",
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 1003257728,
+  "tags": {
+    "highway": "path",
+    "informal": "yes",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 1003257729,
+  "tags": {
+    "highway": "path",
+    "informal": "yes",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1003257733,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 1003257734,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 1003257736,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 1003257737,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 1006876311,
+  "tags": {
+    "highway": "path",
+    "informal": "yes",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "poor"
+  }
+},
+{
+  "type": "way",
+  "id": 1011369003,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 1012569773,
+  "tags": {
+    "highway": "path",
+    "name": "Cleghorn Ridge Trail",
+    "note": "USFS decommissioned this road (Hiking allowed)",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 1012885468,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 1012885478,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1013146841,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 1019189602,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "no",
+    "foot": "yes",
+    "highway": "path",
+    "name": "Buck Gully Trail",
+    "oneway:bicycle": "yes",
+    "operator": "City of Newport Beach",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "trail_visibility": "excellent",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1019189603,
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "layer": "1",
+    "name": "Buck Gully Trail",
+    "oneway:bicycle": "yes",
+    "operator": "City of Newport Beach",
+    "sac_scale": "hiking",
+    "surface": "metal",
+    "trail_visibility": "excellent",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1036624831,
+  "tags": {
+    "highway": "path",
+    "informal": "yes",
+    "name": "Occidental Peak Trail",
+    "sac_scale": "mountain_hiking",
+    "source": "gps",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 1036626486,
+  "tags": {
+    "highway": "path",
+    "incline": "21%",
+    "informal": "yes",
+    "sac_scale": "demanding_alpine_hiking",
+    "surface": "scree",
+    "trail_visibility": "horrible"
+  }
+},
+{
+  "type": "way",
+  "id": 1036631028,
+  "tags": {
+    "alt_name": "Forest Route 2N24",
+    "description": "2023/07/09: the road has been graded, and is in excellend condition",
+    "highway": "track",
+    "name": "Rincon Red Box Truck Trail",
+    "ohv": "no",
+    "ref": "2N24",
+    "sac_scale": "hiking",
+    "smoothness": "excellent",
+    "source": "GPS",
+    "surface": "unpaved",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 1036631029,
+  "tags": {
+    "alt_name": "Forest Route 2N24",
+    "description": "2023/07/09: the road has been graded, and is in excellend condition",
+    "highway": "track",
+    "name": "Rincon Red Box Truck Trail",
+    "ohv": "no",
+    "ref": "2N24",
+    "sac_scale": "hiking",
+    "smoothness": "excellent",
+    "source": "GPS",
+    "surface": "unpaved",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 1036631031,
+  "tags": {
+    "alt_name": "Forest Route 2N24",
+    "highway": "track",
+    "name": "Rincon Red Box Truck Trail",
+    "ohv": "no",
+    "ref": "2N24",
+    "sac_scale": "hiking",
+    "source": "GPS",
+    "surface": "unpaved",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 1047504298,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "ground",
+    "visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 1050640191,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "ground",
+    "visibility": "poor"
+  }
+},
+{
+  "type": "way",
+  "id": 1050640192,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 1050688452,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Telegraph Canyon Road",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Orange, CA",
+    "tiger:name_base": "Telegraph Canyon",
+    "tiger:name_type": "Rd",
+    "tiger:reviewed": "no",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1050688454,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Telegraph Canyon Road",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Orange, CA",
+    "tiger:name_base": "Telegraph Canyon",
+    "tiger:name_type": "Rd",
+    "tiger:reviewed": "no",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1050688455,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1050688457,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Redwood Trail",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "concrete",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1050688458,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1050688459,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Redwood Trail",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "concrete",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1050688460,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Bell's Vireo Trail",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1050688461,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1050688462,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "no",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Bell's Vireo Trail",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "yes",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "way",
+  "id": 1050688465,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Telegraph Canyon Road",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Orange, CA",
+    "tiger:name_base": "Telegraph Canyon",
+    "tiger:name_type": "Rd",
+    "tiger:reviewed": "no",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1050688466,
+  "tags": {
+    "bicycle": "yes",
+    "crossing": "marked",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Telegraph Canyon Road",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Orange, CA",
+    "tiger:name_base": "Telegraph Canyon",
+    "tiger:name_type": "Rd",
+    "tiger:reviewed": "no",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1050688467,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Telegraph Canyon Road",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Orange, CA",
+    "tiger:name_base": "Telegraph Canyon",
+    "tiger:name_type": "Rd",
+    "tiger:reviewed": "no",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1050688468,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1050688469,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Telegraph Canyon Road",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Orange, CA",
+    "tiger:name_base": "Telegraph Canyon",
+    "tiger:name_type": "Rd",
+    "tiger:reviewed": "no",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1050688470,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "layer": "-1",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Telegraph Canyon Road",
+    "sac_scale": "hiking",
+    "smoothness": "excellent",
+    "stroller": "yes",
+    "surface": "concrete",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Orange, CA",
+    "tiger:name_base": "Telegraph Canyon",
+    "tiger:name_type": "Rd",
+    "tiger:reviewed": "no",
+    "trail_visibility": "excellent",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 1050688472,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1050688473,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Telegraph Canyon Trail",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "gravel",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Orange, CA",
+    "tiger:name_base": "Telegraph Canyon",
+    "tiger:name_type": "Rd",
+    "tiger:reviewed": "no",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1050689539,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Telegraph Canyon Trail",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Orange, CA",
+    "tiger:name_base": "Telegraph Canyon",
+    "tiger:name_type": "Rd",
+    "tiger:reviewed": "no",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1050689540,
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "layer": "1",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Telegraph Canyon Road",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Orange, CA",
+    "tiger:name_base": "Telegraph Canyon",
+    "tiger:name_type": "Rd",
+    "tiger:reviewed": "no",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1050689541,
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "layer": "1",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Telegraph Canyon Road",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Orange, CA",
+    "tiger:name_base": "Telegraph Canyon",
+    "tiger:name_type": "Rd",
+    "tiger:reviewed": "no",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1050689542,
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "layer": "1",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Telegraph Canyon Road",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "concrete",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Orange, CA",
+    "tiger:name_base": "Telegraph Canyon",
+    "tiger:name_type": "Rd",
+    "tiger:reviewed": "no",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1057263678,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "Altadena Crest Trail",
+    "sac_scale": "hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 1057263679,
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "layer": "1",
+    "motor_vehicle": "no",
+    "name": "Altadena Crest Trail",
+    "sac_scale": "hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 1057429572,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "no",
+    "foot": "yes",
+    "highway": "track",
+    "motor_vehicle": "no",
+    "name": "Buck Gully Trail",
+    "oneway:bicycle": "yes",
+    "operator": "City of Newport Beach",
+    "sac_scale": "hiking",
+    "surface": "paved",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 1057429580,
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "layer": "1",
+    "name": "Buck Gully Trail",
+    "oneway:bicycle": "yes",
+    "operator": "City of Newport Beach",
+    "sac_scale": "hiking",
+    "surface": "metal",
+    "trail_visibility": "excellent",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1057429581,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "name": "Buck Gully Trail",
+    "oneway:bicycle": "yes",
+    "operator": "City of Newport Beach",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "trail_visibility": "excellent",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1057429582,
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "name": "Bobcat Trail",
+    "oneway:bicycle": "yes",
+    "operator": "City of Newport Beach",
+    "sac_scale": "hiking",
+    "surface": "metal",
+    "trail_visibility": "excellent",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1057429583,
+  "tags": {
+    "highway": "path",
+    "name": "Bobcat Trail",
+    "oneway:bicycle": "yes",
+    "operator": "City of Newport Beach",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "trail_visibility": "excellent",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1057429585,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "name": "Buck Gully Trail",
+    "oneway:bicycle": "yes",
+    "operator": "City of Newport Beach",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "trail_visibility": "excellent",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1057429586,
+  "tags": {
+    "bicycle": "yes",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "layer": "1",
+    "name": "Buck Gully Trail",
+    "oneway:bicycle": "yes",
+    "operator": "City of Newport Beach",
+    "sac_scale": "hiking",
+    "surface": "metal",
+    "trail_visibility": "excellent",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1064907483,
+  "tags": {
+    "highway": "path",
+    "incline": "up",
+    "mtb:scale": "3",
+    "mtb:scale:imba": "3",
+    "mtb:scale:uphill": "2",
+    "name": "Sugarloaf National Recreational Trail",
+    "ref": "2E18",
+    "sac_scale": "mountain_hiking",
+    "source": "Bing;Strava",
+    "surface": "dirt",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1068855010,
+  "tags": {
+    "highway": "path",
+    "mtb:scale": "1",
+    "mtb:scale:uphill": "0",
+    "sac_scale": "hiking",
+    "source": "Strava;Bing",
+    "surface": "dirt",
+    "width": "0.5"
+  }
+},
+{
+  "type": "way",
+  "id": 1071786888,
+  "tags": {
+    "cutline": "firebreak",
+    "highway": "path",
+    "man_made": "cutline",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 1071786891,
+  "tags": {
+    "cutline": "firebreak",
+    "highway": "path",
+    "man_made": "cutline",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 1071786892,
+  "tags": {
+    "highway": "path",
+    "name": "Mount Wilson Trail",
+    "sac_scale": "mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 1071786895,
+  "tags": {
+    "highway": "track",
+    "name": "Chantry Flats Truck Trail",
+    "name_1": "Forest Route 11W20",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "tiger:county": "Los Angeles, CA",
+    "tiger:name_base": "Chantry Flats Truck Trail",
+    "tiger:name_base_1": "Forest Route 11W20",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 1071786898,
+  "tags": {
+    "highway": "track",
+    "name": "Chantry Flats Truck Trail",
+    "name_1": "Forest Route 11W20",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "tiger:county": "Los Angeles, CA",
+    "tiger:name_base": "Chantry Flats Truck Trail",
+    "tiger:name_base_1": "Forest Route 11W20",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 1071786899,
+  "tags": {
+    "highway": "track",
+    "name": "Chantry Flats Truck Trail",
+    "name_1": "Forest Route 11W20",
+    "sac_scale": "hiking",
+    "surface": "unpaved",
+    "tiger:county": "Los Angeles, CA",
+    "tiger:name_base": "Chantry Flats Truck Trail",
+    "tiger:name_base_1": "Forest Route 11W20",
+    "tracktype": "grade2"
+  }
+},
+{
+  "type": "way",
+  "id": 1071786904,
+  "tags": {
+    "highway": "path",
+    "name": "Tom Sloan Trail",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 1071786905,
+  "tags": {
+    "highway": "track",
+    "name": "Mount Lowe Motorway",
+    "ref": "FR 2N50",
+    "sac_scale": "hiking",
+    "source": "cadastre",
+    "surface": "unpaved",
+    "tiger:county": "Los Angeles, CA",
+    "tiger:name_base": "Mount Lowe",
+    "tiger:name_type": "Mtwy",
+    "tracktype": "grade3"
+  }
+},
+{
+  "type": "way",
+  "id": 1071786906,
+  "tags": {
+    "highway": "track",
+    "name": "Mount Lowe Motorway",
+    "ref": "FR 2N50",
+    "sac_scale": "hiking",
+    "source": "cadastre",
+    "surface": "unpaved",
+    "tiger:county": "Los Angeles, CA",
+    "tiger:name_base": "Mount Lowe",
+    "tiger:name_type": "Mtwy",
+    "tracktype": "grade3"
+  }
+},
+{
+  "type": "way",
+  "id": 1071786907,
+  "tags": {
+    "access": "yes",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "name": "Mount Lowe Trail",
+    "ohv": "no",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 1071786908,
+  "tags": {
+    "access": "yes",
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "name": "Upper Sam Merrill Trail",
+    "ohv": "no",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 1072119411,
+  "tags": {
+    "highway": "path",
+    "name": "Cleghorn Ridge Trail",
+    "note": "USFS decommissioned this road (Hiking allowed)",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 1072443763,
+  "tags": {
+    "highway": "path",
+    "name": "Stonehouse Cutoff",
+    "ref": "6W02",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 1072443764,
+  "tags": {
+    "highway": "path",
+    "name": "Middle Fork Trail",
+    "ref": "6W01.1",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 1077851496,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 1078910405,
+  "tags": {
+    "abandoned:highway": "track",
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "yes",
+    "name": "Fisherman's Camp Trail",
+    "operator": "US Forest Service",
+    "ref": "5W11",
+    "sac_scale": "hiking",
+    "source": "Bing",
+    "trail_visibility": "excellent",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1082358636,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Fire Road",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1082358637,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "concrete",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1082358638,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Redwood Trail",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1136790902,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Gilman Trail",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1136797067,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Telegraph Canyon Trail",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Orange, CA",
+    "tiger:name_base": "Telegraph Canyon",
+    "tiger:name_type": "Rd",
+    "tiger:reviewed": "no",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1136799781,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "name": "Telegraph Canyon Road",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "gravel",
+    "tiger:cfcc": "A41",
+    "tiger:county": "Orange, CA",
+    "tiger:name_base": "Telegraph Canyon",
+    "tiger:name_type": "Rd",
+    "tiger:reviewed": "no",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1136804236,
+  "tags": {
+    "bicycle": "yes",
+    "dog": "leashed",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "horse_scale": "common",
+    "lit": "no",
+    "motor_vehicle": "no",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1143825244,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "poor"
+  }
+},
+{
+  "type": "way",
+  "id": 1150557965,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 1150557966,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 1164766906,
+  "tags": {
+    "highway": "path",
+    "name": "Bear Canyon Trail",
+    "sac_scale": "hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 1164766907,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 1167463744,
+  "tags": {
+    "highway": "path",
+    "name": "Millard Canyon Road",
+    "ref": "2N65",
+    "sac_scale": "hiking",
+    "source": "usgs_imagery;survey;image;USFS",
+    "source_ref": "AM909_DSCV3030",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 1167463746,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "dirt",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 1167463748,
+  "tags": {
+    "highway": "path",
+    "name": "Gabrielino Trail",
+    "sac_scale": "hiking",
+    "source": "GPS"
+  }
+},
+{
+  "type": "way",
+  "id": 1167463749,
+  "tags": {
+    "bridge": "yes",
+    "highway": "path",
+    "layer": "1",
+    "name": "Gabrielino Trail",
+    "sac_scale": "hiking",
+    "source": "GPS",
+    "surface": "wood"
+  }
+},
+{
+  "type": "way",
+  "id": 1171446096,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "motor_vehicle": "no",
+    "mtb:scale": "2",
+    "name": "Fall Line",
+    "ref": "1E30",
+    "sac_scale": "mountain_hiking",
+    "source": "Strava;Bing;strava",
+    "trail_visibility": "excellent",
+    "width": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 1174891765,
+  "tags": {
+    "access": "no",
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "permissive",
+    "motor_vehicle": "no",
+    "name": "Indian Springs Trail",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "tiger:cfcc": "A41",
+    "tiger:county": "San Bernardino, CA",
+    "tiger:name_base": "Pipes",
+    "tiger:name_type": "Rd",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 1174933339,
+  "tags": {
+    "highway": "path",
+    "name": "East Fork Trail",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "intermediate",
+    "width": "0.5"
+  }
+},
+{
+  "type": "way",
+  "id": 1174933340,
+  "tags": {
+    "description": "Section where climb along rock face (with ropes as of May 2023) required to avoid fording river. Sac_scale is an estimate to indicate that it's difficult.",
+    "highway": "path",
+    "sac_scale": "demanding_alpine_hiking",
+    "surface": "rock"
+  }
+},
+{
+  "type": "way",
+  "id": 1182169988,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 1182169989,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 1182169994,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 1190277473,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 1190277476,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 1190277481,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 1190277482,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "no",
+    "motor_vehicle": "no",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 1198194452,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 1218842825,
+  "tags": {
+    "access": "no",
+    "check_date": "2023-10-27",
+    "construction": "yes",
+    "dog": "leashed",
+    "highway": "path",
+    "horse_scale": "common",
+    "lit": "no",
+    "name": "North Ridge Trail",
+    "sac_scale": "hiking",
+    "smoothness": "bad",
+    "stroller": "no",
+    "surface": "dirt",
+    "trail_visibility": "excellent",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 1219102565,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "name": "Altadena Crest Access Trail",
+    "sac_scale": "hiking",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 1219103537,
+  "tags": {
+    "highway": "path",
+    "name": "Altadena Crest Trail",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 1219103538,
+  "tags": {
+    "bicycle": "yes",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "yes",
+    "name": "Altadena Crest Access Trail",
+    "sac_scale": "hiking",
+    "surface": "unpaved"
+  }
+},
+{
+  "type": "way",
+  "id": 1221606807,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 1227950784,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 1227950793,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 1227950796,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 1227951295,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "horrible"
+  }
+},
+{
+  "type": "way",
+  "id": 1228722280,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "dirt",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 1228722281,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "dirt",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 1228722282,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "dirt",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 1242370768,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 1242383463,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 1245711494,
+  "tags": {
+    "bicycle": "no",
+    "foot": "yes",
+    "highway": "footway",
+    "horse": "no",
+    "informal": "yes",
+    "motor_vehicle": "no",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 1245970426,
+  "tags": {
+    "highway": "path",
+    "name": "Mount Wilson Trail",
+    "sac_scale": "mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 1247994541,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "no",
+    "informal": "yes",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 1248957541,
+  "tags": {
+    "bicycle": "no",
+    "highway": "path",
+    "horse": "no",
+    "informal": "yes",
+    "motor_vehicle": "no",
+    "sac_scale": "demanding_mountain_hiking"
+  }
+},
+{
+  "type": "way",
+  "id": 1254190261,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "horrible"
+  }
+},
+{
+  "type": "way",
+  "id": 1255040475,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 1255896413,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 1255896414,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "bad"
+  }
+},
+{
+  "type": "way",
+  "id": 1259574003,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 1260439150,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "intermediate"
+  }
+},
+{
+  "type": "way",
+  "id": 1261909394,
+  "tags": {
+    "highway": "path",
+    "name": "Cleghorn Ridge Trail",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 1261909395,
+  "tags": {
+    "highway": "path",
+    "name": "Cleghorn Ridge Trail",
+    "note": "USFS decommissioned this road (Hiking allowed)",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 1261909396,
+  "tags": {
+    "highway": "path",
+    "note": "USFS decommissioned this road (Hiking allowed)",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 1261909398,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "dirt"
+  }
+},
+{
+  "type": "way",
+  "id": 1263336992,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground",
+    "trail_visibility": "excellent"
+  }
+},
+{
+  "type": "way",
+  "id": 1263336996,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 1264362862,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "surface": "ground"
+  }
+},
+{
+  "type": "way",
+  "id": 1280079573,
+  "tags": {
+    "access": "no",
+    "bicycle": "no",
+    "description": "A path that may not lead to the peak. The wrong path is marked so that people can choose the correct path when they decide in the three-way intersection. The correct path should be safer. The wrong path is damper with lizards and snakes on the sides.",
+    "foot": "yes",
+    "highway": "path",
+    "horse": "no",
+    "informal": "yes",
+    "sac_scale": "difficult_alpine_hiking",
+    "smoothness": "impassable",
+    "source": "local knowledge",
+    "surface": "dirt",
+    "trail_visibility": "horrible"
+  }
+},
+{
+  "type": "way",
+  "id": 1283469428,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "source": "Bing",
+    "surface": "ground",
+    "trail_visibility": "horrible"
+  }
+},
+{
+  "type": "way",
+  "id": 1286083352,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "mountain_hiking",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 1286083353,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 1286083354,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "hiking",
+    "surface": "ground",
+    "trail_visibility": "good"
+  }
+},
+{
+  "type": "way",
+  "id": 1286083356,
+  "tags": {
+    "highway": "path",
+    "sac_scale": "demanding_mountain_hiking",
+    "trail_visibility": "horrible"
+  }
+}
+
+  ]
+}
