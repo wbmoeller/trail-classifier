@@ -91,4 +91,94 @@ Important Considerations:
 // Output trail attributes only (without nodes)
 out tags;
 ```
+# Analysis of results (from southern-california-trails)
+```
+Logistic Regression trained.
+Random Forest trained.
+SVM trained.
+
+Logistic Regression Performance:
+Accuracy: 1.00
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00       755
+         1.0       1.00      1.00      1.00       702
+         2.0       1.00      1.00      1.00        89
+         3.0       1.00      1.00      1.00        23
+         4.0       1.00      1.00      1.00        14
+         5.0       1.00      1.00      1.00         4
+
+    accuracy                           1.00      1587
+   macro avg       1.00      1.00      1.00      1587
+weighted avg       1.00      1.00      1.00      1587
+
+
+Random Forest Performance:
+Accuracy: 1.00
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00       755
+         1.0       1.00      1.00      1.00       702
+         2.0       1.00      0.99      0.99        89
+         3.0       1.00      1.00      1.00        23
+         4.0       1.00      1.00      1.00        14
+         5.0       1.00      1.00      1.00         4
+
+    accuracy                           1.00      1587
+   macro avg       1.00      1.00      1.00      1587
+weighted avg       1.00      1.00      1.00      1587
+
+
+SVM Performance:
+Accuracy: 1.00
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       1.00      1.00      1.00       755
+         1.0       1.00      1.00      1.00       702
+         2.0       1.00      1.00      1.00        89
+         3.0       1.00      1.00      1.00        23
+         4.0       1.00      1.00      1.00        14
+         5.0       1.00      1.00      1.00         4
+
+    accuracy                           1.00      1587
+   macro avg       1.00      1.00      1.00      1587
+weighted avg       1.00      1.00      1.00      1587
+```
+## Analysis
+The results you're seeing indicate that all three of your models (Logistic Regression, Random Forest, and SVM) are achieving perfect accuracy (1.00) on your testing data. This means they are correctly predicting the difficulty level (sac_scale) for every single trail in your test set.
+
+The classification report further confirms this, showing:
+
+- Precision: 1.00 for all classes, meaning that when a model predicts a certain difficulty level, it's always correct.
+- Recall: 1.00 for all classes except one in the Random Forest model. This means that the models are able to find all the instances of each difficulty level in the test set. The one exception is the Random Forest model for sac_scale 2.0, which has a recall of 0.99, meaning it missed one instance of this class.
+- F1-score: 1.00 for all classes, indicating a perfect balance between precision and recall.
+
+What this means:
+
+On the surface, this seems fantastic! Your models are performing exceptionally well on your test data. However, it's essential to be cautious and consider a few things:
+
+Potential Issues:
+
+1. Overfitting: It's possible that your models are overfitting to your training data. This means they have memorized the training examples so well that they perform perfectly on data they've already seen (the training set) but might not generalize well to new, unseen trails.
+
+2. Data Leakage: There could be data leakage, where information from the target variable (sac_scale) is inadvertently included in your features, leading to artificially high performance. Double-check your feature engineering process to ensure this isn't happening.
+
+3. Small or Unrepresentative Test Set: If your test set is too small or not representative of the overall trail population, the perfect accuracy might not reflect real-world performance.
+
+Next Steps:
+
+1. Evaluate on New Data: The best way to assess if your model is overfitting is to evaluate it on a completely new dataset that it hasn't seen during training. If performance drops significantly, it's a sign of overfitting.
+
+2. Cross-Validation: Use cross-validation techniques (e.g., k-fold cross-validation) to get a more robust estimate of your model's performance. This involves splitting your data into multiple folds, training on some and testing on others, and averaging the results.
+
+3. Simplify Your Models: If you suspect overfitting, try simplifying your models (e.g., reduce the number of features, use regularization techniques) or gather more diverse training data.
+
+4. Investigate Data Leakage: Carefully review your feature engineering process to ensure no information from the target variable is leaking into your features.
+
+5. Consider Other Metrics:  While accuracy is a good starting point, it's not always the best metric, especially if your classes are imbalanced. Explore other metrics like precision, recall, F1-score, and confusion matrices to get a deeper understanding of your model's performance.
+
+Remember, perfect accuracy is rare in real-world machine learning scenarios.  It's essential to be critical of your results and ensure that your models are genuinely learning meaningful patterns rather than memorizing the training data.
 
