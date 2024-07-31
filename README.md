@@ -91,6 +91,13 @@ Important Considerations:
 // Output trail attributes only (without nodes)
 out tags;
 ```
+
+# How to run
+1. Use the query above with overpass turbo to generate a csv of trails without the path data (you can modify the lat/lon to change the search area)
+2. python3 convert-json-to-csv.py <base-filename>
+3. python3 clean-csv.py <base-filename>
+4. python3 train_and_evaluate_models.py <base-filename>
+
 # Analysis of results (from southern-california-trails)
 ```
 Logistic Regression trained.
