@@ -1,0 +1,281 @@
+bicycle,horse,name,sac_scale,surface,trail_visibility,dog,stroller,wheelchair
+1,1,Tenaja Falls Trail,0.0,2.0,0.0,1,0,0
+2,2,Morgan Trail,0.0,2.0,0.0,1,0,0
+2,2,Wildhorse Meadow Road,1.0,2.0,0.0,1,0,0
+2,2,Cucamonga Peak Trail,0.0,2.0,1.0,1,0,0
+1,1,South Los Mares Trail,0.0,2.0,1.0,1,0,0
+2,2,Barley Flats Truck Trail,2.0,2.0,2.0,1,0,0
+1,1,Cobal Canyon Trail,0.0,2.0,1.0,1,0,0
+2,2,Ridge Motorway,0.0,2.0,0.0,1,0,0
+1,1,Burbank Trail,0.0,2.0,1.0,1,0,0
+1,1,Strawberry Peak Trail,0.0,2.0,0.0,1,0,0
+2,2,Buck Gully Trail,0.0,2.0,0.0,1,0,0
+2,2,Buck Gully Trail,0.0,2.0,0.0,1,0,0
+1,1,Upper Winter Creek Trail,0.0,2.0,1.0,1,0,0
+1,1,Lower Winter Creek Trail,0.0,2.0,1.0,1,0,0
+2,2,Brown Mountain Road,0.0,2.0,1.0,1,0,0
+2,2,Millard Canyon Road,0.0,2.0,1.0,1,0,0
+1,1,Landslide,2.0,2.0,1.0,1,0,0
+2,2,Vogel Flat Trail,1.0,2.0,2.0,1,0,0
+2,2,Kenyon-Devore Trail,0.0,2.0,1.0,1,0,0
+1,1,Sister Elsie Trail,1.0,2.0,1.0,1,0,0
+1,1,Sister Elsie Trail,1.0,2.0,1.0,1,0,0
+1,1,Sister Elsie Trail,1.0,2.0,1.0,1,0,0
+2,2,Mount Lowe Motorway,0.0,2.0,1.0,1,0,0
+2,2,Bear Canyon Trail,0.0,2.0,0.0,1,0,0
+2,2,Valley Forge Trail,2.0,2.0,4.0,1,0,0
+2,2,Rim Trail,0.0,2.0,1.0,1,0,0
+1,1,Condor Peak Trail,0.0,2.0,1.0,1,0,0
+2,2,Waterman Mountain Trail,1.0,2.0,1.0,1,0,0
+2,2,Spur to helipad,1.0,2.0,1.0,1,0,0
+2,2,Twin Peaks Trail,1.0,2.0,1.0,1,0,0
+2,2,Twin Peaks use trail,3.0,2.0,1.0,1,0,0
+2,2,Bill Riley Trail,1.0,2.0,1.0,1,0,0
+2,2,Harbor View Trail,0.0,2.0,1.0,1,0,0
+1,1,North Los Mares Trail,0.0,2.0,1.0,1,0,0
+1,1,Telegraph Canyon Trail,0.0,2.0,0.0,1,0,0
+2,2,Wood Creek Trail,1.0,2.0,1.0,1,0,0
+1,1,Mount Wilson Toll Road,0.0,2.0,1.0,1,0,0
+2,2,Mount Lowe Railway Trail,0.0,2.0,1.0,1,0,0
+2,2,Lower Sam Merrill Trail,0.0,2.0,1.0,1,0,0
+2,2,N. Arroyo,0.0,2.0,1.0,1,0,0
+2,2,Heaton Flat Trail,2.0,2.0,1.0,1,0,0
+2,2,Heaton Flat Trail,2.0,2.0,1.0,1,0,0
+2,2,East Fork Trail,1.0,2.0,2.0,1,0,0
+2,2,Rubio Canyon,0.0,2.0,1.0,1,0,0
+2,2,Castle Canyon Trail,0.0,2.0,1.0,1,0,0
+2,2,Fern Truck Trail,0.0,2.0,1.0,1,0,0
+1,1,El Prieto Trail,0.0,2.0,1.0,1,0,0
+2,2,Sunset Ridge Trail,0.0,2.0,1.0,1,0,0
+2,2,Cleghorn Ridge Trail,1.0,2.0,0.0,1,0,0
+1,1,Borrego Trail,0.0,2.0,1.0,1,0,0
+1,1,Borrego Trail,0.0,4.0,1.0,1,0,0
+1,1,Borrego Canyon Trail,0.0,2.0,1.0,1,0,0
+1,1,Borrego Canyon Trail,0.0,2.0,1.0,1,0,0
+2,2,Blackjack Trail,0.0,2.0,1.0,1,0,0
+2,2,Canyon Trail,0.0,2.0,0.0,1,0,0
+2,2,Echo Glenn Drive Connector,0.0,1.0,1.0,1,0,0
+1,1,Altadena Crest Trail,0.0,2.0,1.0,1,0,0
+2,2,Round Valley Trail,0.0,2.0,1.0,1,0,0
+2,2,Peak Trail,0.0,2.0,1.0,1,0,0
+2,2,Wellman's Cienaga Trail,0.0,2.0,1.0,1,0,0
+2,2,Willow Creek Trail,0.0,2.0,0.0,1,0,0
+2,2,Deer Springs Trail,0.0,2.0,1.0,1,0,0
+2,2,Round Valley Trail,0.0,2.0,1.0,1,0,0
+2,2,Peak Trail,0.0,2.0,1.0,1,0,0
+2,2,Peak Trail,0.0,2.0,1.0,1,0,0
+2,2,High Trail,0.0,2.0,1.0,1,0,0
+2,2,Iron Mountain Trail,2.0,2.0,1.0,1,0,0
+2,2,Devils Backbone Trail,1.0,2.0,1.0,1,0,0
+2,2,Mount Wilson Trail,1.0,2.0,1.0,1,0,0
+2,2,Sturtevant Trail,0.0,2.0,1.0,1,0,0
+2,2,Silver Moccasin Trail / Gabrielino Trail,0.0,2.0,1.0,1,0,0
+1,1,Bear Canyon Trail,0.0,2.0,0.0,1,0,0
+1,1,Bear Ridge Trail,0.0,2.0,0.0,1,0,0
+2,2,Skyline Trail,2.0,2.0,1.0,1,0,0
+2,2,North Lykken Trail,2.0,4.0,1.0,1,0,0
+2,2,Pigeon Ridge Firebreak,1.0,2.0,0.0,1,0,0
+1,1,Altadena Crest Trail,1.0,2.0,1.0,1,0,0
+1,1,Altadena Crest Trail,0.0,2.0,1.0,1,0,0
+2,2,San Gabriel Peak Trail,2.0,2.0,1.0,1,0,0
+2,2,San Gabriel Peak Trail,2.0,2.0,1.0,1,0,0
+2,2,Mariposa Trail,0.0,2.0,1.0,1,0,0
+2,2,Sunflower Trail,0.0,2.0,1.0,1,0,0
+2,2,Waterman Mountain Trail,1.0,2.0,1.0,1,0,0
+1,1,Mount Wilson Toll Road,0.0,2.0,1.0,1,0,0
+2,2,Icehouse Canyon Trail,0.0,2.0,1.0,1,0,0
+2,2,East Fork Trail,0.0,1.0,1.0,1,0,0
+2,2,Bridge to Nowhere,0.0,0.0,1.0,1,0,0
+2,2,Allison Mine Trail,2.0,2.0,1.0,1,0,0
+2,2,Heaton Flat Trail,2.0,2.0,1.0,1,0,0
+2,2,Allison Gulch Trail,2.0,2.0,1.0,1,0,0
+2,2,Bear Canyon Trail,1.0,2.0,0.0,1,0,0
+2,2,Prima Desecha Trail,0.0,2.0,1.0,1,0,0
+2,2,Las Ramblas Trail,0.0,2.0,1.0,1,0,0
+2,2,Prima Desecha Trail,0.0,2.0,1.0,1,0,0
+2,2,Millard Falls Trail,0.0,2.0,0.0,1,0,0
+2,2,The Lake Trail,0.0,1.0,1.0,1,0,0
+1,1,North Ridge Trail,0.0,2.0,0.0,1,0,0
+2,2,Register Ridge,2.0,2.0,2.0,1,0,0
+2,2,El Prieto Trail,0.0,2.0,1.0,1,0,0
+1,1,Upper Sam Merrill Trail,0.0,2.0,1.0,1,0,0
+2,2,Wood Creek Trail,1.0,2.0,1.0,1,0,0
+2,2,Wood Creek Trail,1.0,2.0,1.0,1,0,0
+2,2,Fire Road,0.0,2.0,1.0,1,0,0
+1,1,Altadena Crest Trail,0.0,2.0,1.0,1,0,0
+2,2,Bailey Canyon Trail,1.0,2.0,1.0,1,0,0
+1,1,Altadena Crest Trail,0.0,2.0,1.0,1,0,0
+2,2,Mount Lowe Motorway,0.0,2.0,1.0,1,0,0
+2,2,Middle Sam Merrill Trail,0.0,2.0,0.0,1,0,0
+2,2,Chapman Trail,0.0,2.0,1.0,1,0,0
+2,2,Ontario Peak Trail,0.0,2.0,1.0,1,0,0
+2,2,Experimental Garden Kite Hill Expanse,1.0,2.0,1.0,1,0,0
+2,2,Middle Fork Trail,0.0,2.0,1.0,1,0,0
+2,2,Middle Fork Trail,0.0,2.0,1.0,1,0,0
+2,2,Sturtevant Trail / Gabrielino Trail / Silver Moccasin Trail,0.0,2.0,1.0,1,0,0
+1,1,Eaton Canyon Trail,0.0,2.0,1.0,1,0,0
+1,1,Eaton Canyon Trail,0.0,2.0,1.0,1,0,0
+2,2,Three Ts Trail,0.0,2.0,1.0,1,0,0
+2,2,Timber Mountain Trail,0.0,2.0,1.0,1,0,0
+2,2,Telegraph Peak Trail,0.0,2.0,1.0,1,0,0
+1,1,Carbon Canyon Creek Nature Trail,0.0,2.0,0.0,1,0,0
+1,1,Redwood Trail,0.0,2.0,0.0,1,0,0
+1,1,Bell's Vireo Trail,0.0,2.0,0.0,1,0,0
+1,1,Coyote Pass,0.0,2.0,0.0,1,0,0
+1,1,Fire Road,0.0,2.0,0.0,1,0,0
+2,2,Easy Street Trail,0.0,2.0,0.0,1,0,0
+2,2,Firebreak,0.0,2.0,1.0,1,0,0
+1,1,Idlehour Trail,0.0,2.0,1.0,1,0,0
+2,2,Lone Tree Trail,1.0,2.0,1.0,1,0,0
+2,2,Camp Huntington Trail,0.0,2.0,1.0,1,0,0
+2,2,Lone Tree Pavilion Trail,2.0,2.0,2.0,1,0,0
+2,2,Old Echo Montain Trail,2.0,2.0,1.0,1,0,0
+2,2,Chantry Flats Truck Trail,0.0,2.0,1.0,1,0,0
+2,2,Tenaja Trail,0.0,2.0,0.0,1,0,0
+1,1,Fisherman's Camp Trail,0.0,2.0,0.0,1,0,0
+2,2,Tenaja Trail,0.0,2.0,0.0,1,0,0
+2,2,Devils Backbone Trail,0.0,2.0,1.0,1,0,0
+2,2,Blue Gum Drive,1.0,2.0,4.0,1,0,0
+2,2,Redonda Ridge Trail,0.0,2.0,0.0,1,0,0
+2,2,Pacific Crest National Scenic Trail #2000,1.0,2.0,1.0,1,0,0
+2,2,North Fork Meadows Trail,1.0,2.0,1.0,1,0,0
+2,2,Old Echo Mountain Trail,0.0,2.0,1.0,1,0,0
+2,2,Bastard Ridge,2.0,2.0,1.0,1,0,0
+2,2,Islip Wawona Trail,0.0,2.0,0.0,1,0,0
+2,2,Mount Wilson Trail,1.0,2.0,1.0,1,0,0
+2,2,Mount Wilson Trail,1.0,2.0,1.0,1,0,0
+2,2,Skyline Trail,2.0,2.0,1.0,1,0,0
+2,2,Skyline Trail,2.0,2.0,1.0,1,0,0
+2,2,Jim Spencer trail,0.0,2.0,1.0,1,0,0
+2,2,Skyline Trail,0.0,2.0,2.0,1,0,0
+2,2,Sugarloaf National Recreational Trail,1.0,2.0,1.0,1,0,0
+2,2,Skyline Trail,0.0,2.0,0.0,1,0,0
+2,2,Skyline Trail,0.0,2.0,1.0,1,0,0
+1,1,Fall Line,1.0,2.0,0.0,1,0,0
+2,2,Cougar Ridge,1.0,2.0,1.0,1,0,0
+2,2,Woodland Interpretive Trail 1E23,0.0,2.0,0.0,1,0,0
+1,1,Gilman Trail,0.0,2.0,0.0,1,0,0
+2,2,Sunset Peak Shortcut,2.0,2.0,0.0,1,0,0
+2,2,Sunset Peak Shortcut,2.0,2.0,0.0,1,0,0
+2,2,Gooseberry Motorway,2.0,2.0,4.0,1,0,0
+2,2,Fish Canyon Falls Public Access Path,0.0,2.0,0.0,1,0,0
+2,2,East Fork Trail,0.0,2.0,1.0,1,0,0
+2,2,East Fork Trail,1.0,2.0,1.0,1,0,0
+2,2,Upper Colby Trail,4.0,2.0,1.0,1,0,0
+2,2,Burkhart Trail,0.0,2.0,0.0,1,0,0
+1,1,Verdugo Trail,0.0,2.0,0.0,1,0,0
+2,2,Cram Peak Ridge Trail,1.0,2.0,2.0,1,0,0
+2,2,Icehouse Canyon Trail,0.0,2.0,1.0,1,0,0
+2,2,Icehouse Canyon Trail,0.0,2.0,1.0,1,0,0
+2,2,Skyline Trail,0.0,2.0,0.0,1,0,0
+1,1,Bear Canyon Trail,0.0,2.0,0.0,1,0,0
+2,2,Holly Trail Path,0.0,2.0,1.0,1,0,0
+2,2,Mt. Lowe Firebreak,2.0,2.0,5.0,1,0,0
+2,2,Indian Springs Trail,1.0,2.0,0.0,1,0,0
+1,1,Chaparrosa Peak Trail,0.0,2.0,0.0,1,0,0
+1,1,Rancho Capistrano Trail,1.0,2.0,0.0,1,0,0
+1,1,San Mateo Peak Trail,1.0,2.0,0.0,1,0,0
+2,2,Catalina Verdugo Trail,0.0,2.0,0.0,1,0,0
+2,2,Falls Canyon  Trail,1.0,2.0,1.0,1,0,0
+2,2,Bradford Ridge Path,0.0,2.0,1.0,1,0,0
+2,2,Lookout Spur,0.0,2.0,1.0,1,0,0
+2,2,Old Sugarloaf Peak Trail,2.0,2.0,2.0,1,0,0
+2,2,Tom Sloan Trail,0.0,2.0,1.0,1,0,0
+1,1,Diemer Trail,0.0,2.0,0.0,1,0,0
+1,1,Pipes Canyon Trail,0.0,2.0,1.0,1,0,0
+2,2,Bastard Ridge,2.0,2.0,1.0,1,0,0
+2,2,Catalina Verdugo Trail,0.0,2.0,0.0,1,0,0
+2,2,Incline Railway trail,2.0,2.0,1.0,1,0,0
+1,1,South Los Mares Trail,0.0,2.0,1.0,1,0,0
+2,2,Bobcat Trail,0.0,2.0,0.0,1,0,0
+2,2,Gabrielino Trail,0.0,2.0,1.0,1,0,0
+2,2,Mount Lowe Motorway,0.0,2.0,1.0,1,0,0
+1,1,Mount Lowe Motorway,0.0,0.0,1.0,1,0,0
+2,2,Willow Creek Trail,0.0,2.0,0.0,1,0,0
+2,2,Willow Creek Trail,0.0,2.0,0.0,1,0,0
+2,2,Islip Ridge Trail,0.0,2.0,0.0,1,0,0
+2,2,Islip Wawona Trail,0.0,2.0,0.0,1,0,0
+2,2,San Mateo Trail,0.0,2.0,1.0,1,0,0
+2,2,Sturtevant Trail (Gabrielino NRT / Silver Moccasin NRT),0.0,2.0,1.0,1,0,0
+1,1,Tenaja Falls Trail,0.0,2.0,0.0,1,0,0
+1,1,San Mateo Peak Trail,1.0,2.0,2.0,1,0,0
+2,2,Morgan Trail,0.0,2.0,0.0,1,0,0
+2,2,Morgan Trail,0.0,2.0,0.0,1,0,0
+2,2,Morgan Trail,0.0,2.0,0.0,1,0,0
+2,2,Morgan Trail,0.0,2.0,0.0,1,0,0
+1,1,Bear Canyon Trail,0.0,2.0,0.0,1,0,0
+2,2,Icehouse Canyon Trail,0.0,2.0,1.0,1,0,0
+2,2,Pavlovian Reflexes,1.0,2.0,2.0,1,0,0
+1,1,Tenaja Falls Trail,0.0,2.0,0.0,1,0,0
+2,2,Rubio Canyon Preserve Trail,0.0,2.0,1.0,1,0,0
+2,2,Rubio Canyon Preserve Trail,0.0,2.0,1.0,1,0,0
+2,2,Rubio Canyon Preserve Trail,0.0,2.0,1.0,1,0,0
+2,2,Sturtevant Falls Trail,0.0,2.0,1.0,1,0,0
+2,2,Sturtevant Trail,0.0,2.0,1.0,1,0,0
+2,2,Wood Creek Trail,1.0,2.0,1.0,1,0,0
+2,2,Wood Creek Trail,1.0,2.0,1.0,1,0,0
+2,2,Cleghorn Ridge Trail,0.0,2.0,0.0,1,0,0
+2,2,Buck Gully Trail,0.0,2.0,0.0,1,0,0
+2,2,Buck Gully Trail,0.0,2.0,0.0,1,0,0
+2,2,Occidental Peak Trail,1.0,2.0,4.0,1,0,0
+2,2,Rincon Red Box Truck Trail,0.0,2.0,1.0,1,0,0
+2,2,Rincon Red Box Truck Trail,0.0,2.0,1.0,1,0,0
+2,2,Rincon Red Box Truck Trail,0.0,2.0,1.0,1,0,0
+1,1,Telegraph Canyon Road,0.0,2.0,0.0,1,0,0
+1,1,Telegraph Canyon Road,0.0,2.0,0.0,1,0,0
+1,1,Redwood Trail,0.0,0.0,0.0,1,0,0
+1,1,Redwood Trail,0.0,0.0,0.0,1,0,0
+1,1,Bell's Vireo Trail,0.0,2.0,0.0,1,0,0
+2,2,Bell's Vireo Trail,0.0,2.0,0.0,1,0,0
+1,1,Telegraph Canyon Road,0.0,2.0,0.0,1,0,0
+1,1,Telegraph Canyon Road,0.0,2.0,0.0,1,0,0
+1,1,Telegraph Canyon Road,0.0,2.0,0.0,1,0,0
+1,1,Telegraph Canyon Road,0.0,2.0,0.0,1,0,0
+1,1,Telegraph Canyon Road,0.0,0.0,0.0,1,0,0
+1,1,Telegraph Canyon Trail,0.0,1.0,0.0,1,0,0
+1,1,Telegraph Canyon Trail,0.0,2.0,0.0,1,0,0
+1,1,Telegraph Canyon Road,0.0,2.0,0.0,1,0,0
+1,1,Telegraph Canyon Road,0.0,2.0,0.0,1,0,0
+1,1,Telegraph Canyon Road,0.0,0.0,0.0,1,0,0
+1,1,Altadena Crest Trail,0.0,2.0,1.0,1,0,0
+1,1,Altadena Crest Trail,0.0,2.0,1.0,1,0,0
+2,2,Buck Gully Trail,0.0,0.0,0.0,1,0,0
+2,2,Buck Gully Trail,0.0,2.0,0.0,1,0,0
+2,2,Buck Gully Trail,0.0,2.0,0.0,1,0,0
+2,2,Bobcat Trail,0.0,2.0,0.0,1,0,0
+2,2,Bobcat Trail,0.0,2.0,0.0,1,0,0
+2,2,Buck Gully Trail,0.0,2.0,0.0,1,0,0
+2,2,Buck Gully Trail,0.0,2.0,0.0,1,0,0
+2,2,Sugarloaf National Recreational Trail,1.0,2.0,1.0,1,0,0
+2,2,Mount Wilson Trail,1.0,2.0,1.0,1,0,0
+2,2,Chantry Flats Truck Trail,0.0,2.0,1.0,1,0,0
+2,2,Chantry Flats Truck Trail,0.0,2.0,1.0,1,0,0
+2,2,Chantry Flats Truck Trail,0.0,2.0,1.0,1,0,0
+2,2,Tom Sloan Trail,0.0,2.0,1.0,1,0,0
+2,2,Mount Lowe Motorway,0.0,2.0,1.0,1,0,0
+2,2,Mount Lowe Motorway,0.0,2.0,1.0,1,0,0
+1,1,Mount Lowe Trail,0.0,2.0,1.0,1,0,0
+1,1,Upper Sam Merrill Trail,0.0,2.0,1.0,1,0,0
+2,2,Cleghorn Ridge Trail,0.0,2.0,0.0,1,0,0
+2,2,Stonehouse Cutoff,0.0,2.0,1.0,1,0,0
+2,2,Middle Fork Trail,0.0,2.0,1.0,1,0,0
+1,1,Fisherman's Camp Trail,0.0,2.0,0.0,1,0,0
+1,1,Fire Road,0.0,2.0,0.0,1,0,0
+1,1,Redwood Trail,0.0,2.0,0.0,1,0,0
+1,1,Gilman Trail,0.0,2.0,0.0,1,0,0
+1,1,Telegraph Canyon Trail,0.0,2.0,0.0,1,0,0
+1,1,Telegraph Canyon Road,0.0,1.0,0.0,1,0,0
+2,2,Bear Canyon Trail,0.0,2.0,1.0,1,0,0
+2,2,Millard Canyon Road,0.0,2.0,1.0,1,0,0
+2,2,Gabrielino Trail,0.0,2.0,1.0,1,0,0
+2,2,Gabrielino Trail,0.0,2.0,1.0,1,0,0
+1,1,Fall Line,1.0,2.0,0.0,1,0,0
+1,1,Indian Springs Trail,0.0,2.0,1.0,1,0,0
+2,2,East Fork Trail,1.0,2.0,2.0,1,0,0
+2,2,North Ridge Trail,0.0,2.0,0.0,1,0,0
+1,1,Altadena Crest Access Trail,0.0,0.0,1.0,1,0,0
+2,2,Altadena Crest Trail,0.0,2.0,1.0,1,0,0
+1,1,Altadena Crest Access Trail,0.0,2.0,1.0,1,0,0
+2,2,Mount Wilson Trail,1.0,2.0,1.0,1,0,0
+2,2,Cleghorn Ridge Trail,1.0,2.0,0.0,1,0,0
+2,2,Cleghorn Ridge Trail,0.0,2.0,0.0,1,0,0

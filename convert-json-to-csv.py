@@ -1,9 +1,15 @@
 import pandas as pd
 import json
+import argparse
 
-# Input and output filenames
-input_file = 'la-mountain-trails.json'
-output_file = 'la-mountain-trails.csv'
+# Set up argument parsing
+parser = argparse.ArgumentParser(description="Convert json to csv and only retain the tags.")
+parser.add_argument("base_filename", help="The base filename without extension (e.g., 'la_mountain_trails')")
+args = parser.parse_args()
+
+# Construct input and output filenames
+input_file = args.base_filename + ".json"
+output_file = args.base_filename + ".csv"
 
 # Load JSON data
 with open(input_file, 'r') as f:
